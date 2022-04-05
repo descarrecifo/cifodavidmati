@@ -13,10 +13,7 @@ public class Bird {
         this.observations = observations;
     }
 
-    //methods
-
-
-    ////getters and setters
+   ////getters and setters
 
     public String getName() {
         return name;
@@ -50,4 +47,10 @@ public class Bird {
     public String toString() {
         return "Bird [name=" + name + ", nameLatin=" + nameLatin + ", observations=" + observations + "]";
     }
+
+    //methods
+
+
+
+
 }
